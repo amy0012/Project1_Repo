@@ -1,0 +1,14 @@
+Script started on Fri 31 Aug 2018 04:49:37 PM CDT
+bash-4.2$ ls[K[Kcd SourceCode
+bash-4.2$ ls
+Debug  simple.c  simple.c.sln
+bash-4.2$ C[Kcd simpel[K[Kle.c
+bash-4.2$ ls
+Debug  simple  simple.c  simple.c.vcxproj  simple.c.vcxproj.filters  simple.c.vcxproj.user
+bash-4.2$ lscd simple.cls[Kcd SourceCode
+[C[C[C[C[C[C[C[C[C[Cexit[K./simplegcc -g -lm -o simple simple.c
+bash-4.2$ ./simple
+2.246828bash-4.2$ exit
+exit
+
+Script done on Fri 31 Aug 2018 04:50:19 PM CDT
